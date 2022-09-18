@@ -1,0 +1,37 @@
+{
+  "kind": "singleType",
+  "collectionName": "settings_pages",
+  "info": {
+    "singularName": "settings-page",
+    "pluralName": "settings-pages",
+    "displayName": "Settings Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "FB": {
+      "type": "string"
+    },
+    "Twitter": {
+      "type": "string"
+    },
+    "Instagram": {
+      "type": "string"
+    },
+    "LinkdIn": {
+      "type": "string"
+    },
+    "YouTube": {
+      "type": "string"
+    },
+    "site_title": {
+      "type": "string"
+    },
+    "office_address": {
+      "type": "string"
+    }
+  }
+}
